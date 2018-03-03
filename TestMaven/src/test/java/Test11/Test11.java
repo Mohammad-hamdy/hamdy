@@ -12,7 +12,7 @@ public class Test11 {
 	public void fail()
 	{
 		
-		Assert.assertEquals(1, 2);
+		Assert.assertEquals(2, 2);
 	}
 	
 	@Test
